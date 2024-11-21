@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -121,6 +122,9 @@ int main() {
         // Extract the temperature for the city
         if (data) {
             temperatures[i] = extract_temperature(data);
+            if (temperatures[i] > 300.0) {
+                    printf("\a");
+            }
             free(data);
         } else {
             temperatures[i] = -1;  // Mark as invalid if data couldn't be read
