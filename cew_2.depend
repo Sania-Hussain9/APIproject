@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1732035770 source:c:\users\dell\cew_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curl/curl.h>
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw\curl-8.11.0_1-win64-mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<sys/param.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"mprintf.h"
+	"typecheck-gcc.h"
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw\curl-8.11.0_1-win64-mingw\include\curl\curlver.h
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw\curl-8.11.0_1-win64-mingw\include\curl\system.h
+	<ConditionalMacros.h>
+	<inttypes.h>
+	<inttypes.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw\curl-8.11.0_1-win64-mingw\include\curl\easy.h
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw\curl-8.11.0_1-win64-mingw\include\curl\multi.h
+	"curl.h"
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw\curl-8.11.0_1-win64-mingw\include\curl\urlapi.h
+	"curl.h"
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw\curl-8.11.0_1-win64-mingw\include\curl\options.h
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw\curl-8.11.0_1-win64-mingw\include\curl\header.h
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw\curl-8.11.0_1-win64-mingw\include\curl\websockets.h
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw\curl-8.11.0_1-win64-mingw\include\curl\mprintf.h
+	<stdarg.h>
+	<stdio.h>
+	"curl.h"
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw\curl-8.11.0_1-win64-mingw\include\curl\typecheck-gcc.h
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw (1)\curl-8.11.0_1-win64-mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<sys/param.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"mprintf.h"
+	"typecheck-gcc.h"
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw (1)\curl-8.11.0_1-win64-mingw\include\curl\curlver.h
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw (1)\curl-8.11.0_1-win64-mingw\include\curl\system.h
+	<ConditionalMacros.h>
+	<inttypes.h>
+	<inttypes.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw (1)\curl-8.11.0_1-win64-mingw\include\curl\easy.h
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw (1)\curl-8.11.0_1-win64-mingw\include\curl\multi.h
+	"curl.h"
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw (1)\curl-8.11.0_1-win64-mingw\include\curl\urlapi.h
+	"curl.h"
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw (1)\curl-8.11.0_1-win64-mingw\include\curl\options.h
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw (1)\curl-8.11.0_1-win64-mingw\include\curl\header.h
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw (1)\curl-8.11.0_1-win64-mingw\include\curl\websockets.h
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw (1)\curl-8.11.0_1-win64-mingw\include\curl\mprintf.h
+	<stdarg.h>
+	<stdio.h>
+	"curl.h"
+
+1730858960 c:\users\dell\downloads\curl-8.11.0_1-win64-mingw (1)\curl-8.11.0_1-win64-mingw\include\curl\typecheck-gcc.h
+
+1732035770 source:c:\users\dell\desktop\cew_2_backup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curl/curl.h>
+
+1730858960 c:\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<sys/param.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"mprintf.h"
+	"typecheck-gcc.h"
+
+1730858960 c:\curl\include\curl\curlver.h
+
+1730858960 c:\curl\include\curl\system.h
+	<ConditionalMacros.h>
+	<inttypes.h>
+	<inttypes.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1730858960 c:\curl\include\curl\easy.h
+
+1730858960 c:\curl\include\curl\multi.h
+	"curl.h"
+
+1730858960 c:\curl\include\curl\urlapi.h
+	"curl.h"
+
+1730858960 c:\curl\include\curl\options.h
+
+1730858960 c:\curl\include\curl\header.h
+
+1730858960 c:\curl\include\curl\websockets.h
+
+1730858960 c:\curl\include\curl\mprintf.h
+	<stdarg.h>
+	<stdio.h>
+	"curl.h"
+
+1730858960 c:\curl\include\curl\typecheck-gcc.h
+
