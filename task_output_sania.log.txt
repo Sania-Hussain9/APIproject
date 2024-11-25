@@ -1,4 +1,2 @@
-/usr/bin/bash: line 1: ./main_sania.exe: No such file or directory
-/usr/bin/bash: line 1: ./main_sania.exe: No such file or directory
 Processed results saved to 'processed_results_sania.csv'.
 Processed results saved to 'processed_results_sania.csv'.
