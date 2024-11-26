@@ -53,7 +53,7 @@ int main() {
     size_t data_size = 0;
 
     // Cities to fetch data for
-    const char *cities[] = {"London", "New York", "Tokyo"};
+    const char *cities[] = {"Berlin", "New York", "Paris"};
     int city_count = sizeof(cities) / sizeof(cities[0]);
     double temperatures[city_count];
 
